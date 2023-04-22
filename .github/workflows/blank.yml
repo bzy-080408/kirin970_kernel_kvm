@@ -25,6 +25,7 @@ jobs:
 
     - name: Build kernel
       run: |
+        chmod a+x build.sh
         bash build.sh
 
     - name: Upload boot image
