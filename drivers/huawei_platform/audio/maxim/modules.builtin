@@ -1,0 +1,2 @@
+kernel/drivers/huawei_platform/audio/maxim/maxim.ko
+kernel/drivers/huawei_platform/audio/maxim/max98925/max98925.ko

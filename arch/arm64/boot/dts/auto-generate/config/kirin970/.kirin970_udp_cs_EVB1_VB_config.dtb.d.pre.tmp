@@ -1,0 +1,2 @@
+kirin970_udp_cs_EVB1_VB_config.o: \
+ arch/arm64/boot/dts/auto-generate/config/kirin970/kirin970_udp_cs_EVB1_VB_config.dts

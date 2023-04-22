@@ -1,0 +1,3 @@
+kernel/drivers/devfreq/hisi/hisi_devfreq.ko
+kernel/drivers/devfreq/hisi/ddr_devfreq.ko
+kernel/drivers/devfreq/hisi/governor_gpu_scene_aware.ko

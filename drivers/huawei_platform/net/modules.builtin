@@ -1,0 +1,10 @@
+kernel/drivers/huawei_platform/net/hw_dpi_mark/dpi_hw_hook.ko
+kernel/drivers/huawei_platform/net/hw_netfilter/nf_ad_filter.ko
+kernel/drivers/huawei_platform/net/hw_netfilter/nf_app_dl_monitor.ko
+kernel/drivers/huawei_platform/net/hw_netfilter/nf_hw_common.ko
+kernel/drivers/huawei_platform/net/hw_netfilter/nf_hw_hook.ko
+kernel/drivers/huawei_platform/net/netbooster/nb_netlink.ko
+kernel/drivers/huawei_platform/net/netbooster/video_acceleration.ko
+kernel/drivers/huawei_platform/net/netbooster/smart_switch.ko
+kernel/drivers/huawei_platform/net/netbooster/ai_predict.ko
+kernel/drivers/huawei_platform/net/qtaguid_pid/qtaguid_pid.ko

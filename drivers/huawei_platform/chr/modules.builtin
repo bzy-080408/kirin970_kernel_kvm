@@ -1,0 +1,2 @@
+kernel/drivers/huawei_platform/chr/chr_netlink.ko
+kernel/drivers/huawei_platform/chr/wbc_hw_hook.ko

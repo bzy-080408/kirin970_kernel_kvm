@@ -1,0 +1,3 @@
+kernel/drivers/remoteproc/remoteproc.ko
+kernel/drivers/remoteproc/hisp_remoteproc.ko
+kernel/drivers/remoteproc/bin_loader.ko

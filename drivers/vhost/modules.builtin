@@ -1,0 +1,2 @@
+kernel/drivers/vhost/vhost_net.ko
+kernel/drivers/vhost/vhost.ko

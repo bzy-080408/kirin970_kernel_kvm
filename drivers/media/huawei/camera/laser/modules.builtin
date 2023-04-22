@@ -1,0 +1,2 @@
+kernel/drivers/media/huawei/camera/laser/hw_laser_subdev.ko
+kernel/drivers/media/huawei/camera/laser/vl53Lx/stmvl53lx.ko

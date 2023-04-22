@@ -1,0 +1,3 @@
+kernel/drivers/huawei_platform/sensor/color_sensor/color_sensor.ko
+kernel/drivers/huawei_platform/sensor/color_sensor/rohm_bh1749.ko
+kernel/drivers/huawei_platform/sensor/color_sensor/ams_tcs3430.ko

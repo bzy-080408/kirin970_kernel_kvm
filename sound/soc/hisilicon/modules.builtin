@@ -1,0 +1,3 @@
+kernel/sound/soc/hisilicon/snd-soc-hi3660.ko
+kernel/sound/soc/hisilicon/snd-soc-hi3660-hi6403.ko
+kernel/sound/soc/hisilicon/snd-soc-dp.ko

@@ -1,0 +1,7 @@
+kernel/drivers/scsi/ufs/ufs-kirin.ko
+kernel/drivers/scsi/ufs/ufs-kirin-hisi-mphy.ko
+kernel/drivers/scsi/ufs/ufs_mphy_firmware.ko
+kernel/drivers/scsi/ufs/ufs-aries.ko
+kernel/drivers/scsi/ufs/ufshcd.ko
+kernel/drivers/scsi/ufs/ufs_quirks.ko
+kernel/drivers/scsi/ufs/ufshcd-pltfrm.ko

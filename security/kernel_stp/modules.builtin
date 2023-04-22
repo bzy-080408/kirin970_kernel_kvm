@@ -1,0 +1,4 @@
+kernel/security/kernel_stp/hw_kernel_stp_module.ko
+kernel/security/kernel_stp/hw_kernel_stp_proc.ko
+kernel/security/kernel_stp/hw_kernel_stp_scanner.ko
+kernel/security/kernel_stp/hw_kernel_stp_uploader.ko

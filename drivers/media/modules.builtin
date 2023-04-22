@@ -1,0 +1,13 @@
+kernel/drivers/media/media.ko
+kernel/drivers/media/huawei/camera/fd/fd.ko
+kernel/drivers/media/huawei/camera/laser/hw_laser_subdev.ko
+kernel/drivers/media/huawei/camera/laser/vl53Lx/stmvl53lx.ko
+kernel/drivers/media/huawei/camera/sensor/flash/lm3642.ko
+kernel/drivers/media/huawei/camera/sensor/flash/mp3331.ko
+kernel/drivers/media/huawei/camera/sensor/flash/aw3642.ko
+kernel/drivers/media/jpeg/jpeg_base.ko
+kernel/drivers/media/v4l2-core/videodev.ko
+kernel/drivers/media/v4l2-core/v4l2-common.ko
+kernel/drivers/media/v4l2-core/v4l2-dv-timings.ko
+kernel/drivers/media/v4l2-core/videobuf2-core.ko
+kernel/drivers/media/v4l2-core/videobuf2-v4l2.ko

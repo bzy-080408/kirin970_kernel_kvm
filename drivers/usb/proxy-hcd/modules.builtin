@@ -1,0 +1,3 @@
+kernel/drivers/usb/proxy-hcd/usbaudio-monitor.ko
+kernel/drivers/usb/proxy-hcd/hifiusb.ko
+kernel/drivers/usb/proxy-hcd/phcd.ko

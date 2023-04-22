@@ -1,0 +1,14 @@
+kernel/drivers/huawei_platform/audio/ak4376-kernel-4-1/ak4376.ko
+kernel/drivers/huawei_platform/audio/anc_hs_module/anc_hs_interface.ko
+kernel/drivers/huawei_platform/audio/anc_hs_module/anc_hs/anc_hs.ko
+kernel/drivers/huawei_platform/audio/anc_hs_module/anc_hs_default/anc_hs_default.ko
+kernel/drivers/huawei_platform/audio/anc_hs_module/anc_max14744/anc_max14744.ko
+kernel/drivers/huawei_platform/audio/anc_hs_module/anc_ncx8293/anc_ncx8293.ko
+kernel/drivers/huawei_platform/audio/hifi_vir_dai/hifi_vir_dai.ko
+kernel/drivers/huawei_platform/audio/invert_hs/invert_hs.ko
+kernel/drivers/huawei_platform/audio/maxim/maxim.ko
+kernel/drivers/huawei_platform/audio/maxim/max98925/max98925.ko
+kernel/drivers/huawei_platform/audio/usb_analog_hs_module/usb_analog_hs_interface.ko
+kernel/drivers/huawei_platform/audio/usb_analog_hs_module/usb_analog_hs_fsa4476/usb_analog_hs_fsa4476.ko
+kernel/drivers/huawei_platform/audio/usb_analog_hs_module/usb_analog_hs_isl54405/usb_analog_hs_isl54405.ko
+kernel/drivers/huawei_platform/audio/usb_audio_power/usb_audio_power.ko

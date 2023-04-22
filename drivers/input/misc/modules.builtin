@@ -1,0 +1,3 @@
+kernel/drivers/input/misc/hisi_powerkey_spmi.ko
+kernel/drivers/input/misc/hisi_powerkey_event.ko
+kernel/drivers/input/misc/uinput.ko

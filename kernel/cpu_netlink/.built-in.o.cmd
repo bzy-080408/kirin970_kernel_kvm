@@ -1,0 +1,1 @@
+cmd_kernel/cpu_netlink/built-in.o :=  /home/WUYING_bzy_1150109475084725/toolchains/aarch64-linux-android-4.9/prebuilt/linux-x86_64/bin/aarch64-linux-android-ld -EL    -r -o kernel/cpu_netlink/built-in.o kernel/cpu_netlink/cpu_netlink.o kernel/cpu_netlink/proc_fork_nl.o kernel/cpu_netlink/proc_comm_nl.o 

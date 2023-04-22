@@ -1,0 +1,17 @@
+# 1 "arch/arm64/boot/dts/auto-generate/overlay/kirin970/kirin970_udp_ET_overlay.dts"
+# 1 "<built-in>"
+# 1 "<command-line>"
+# 1 "arch/arm64/boot/dts/auto-generate/overlay/kirin970/kirin970_udp_ET_overlay.dts"
+# 10 "arch/arm64/boot/dts/auto-generate/overlay/kirin970/kirin970_udp_ET_overlay.dts"
+/dts-v1/;
+/plugin/;
+/include/ "kirin970_udp_cs_overlay.dtsi"
+
+/ {
+ board_id = <6092>;
+};
+
+&rootparam {
+    hisi,boardid = <6 0 9 2>;
+    hisi,boardname = "kirin970_udp_ET";
+};

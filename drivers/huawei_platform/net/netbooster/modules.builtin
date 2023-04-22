@@ -1,0 +1,4 @@
+kernel/drivers/huawei_platform/net/netbooster/nb_netlink.ko
+kernel/drivers/huawei_platform/net/netbooster/video_acceleration.ko
+kernel/drivers/huawei_platform/net/netbooster/smart_switch.ko
+kernel/drivers/huawei_platform/net/netbooster/ai_predict.ko

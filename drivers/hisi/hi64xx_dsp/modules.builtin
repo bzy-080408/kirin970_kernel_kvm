@@ -1,0 +1,5 @@
+kernel/drivers/hisi/hi64xx_dsp/hi64xx_hifi_misc.ko
+kernel/drivers/hisi/hi64xx_dsp/hi6403_hifi_config.ko
+kernel/drivers/hisi/hi64xx_dsp/hi64xx_hifi_img_dl.ko
+kernel/drivers/hisi/hi64xx_dsp/hi64xx_hifi_om.ko
+kernel/drivers/hisi/hi64xx_dsp/hi64xx_hifi_anc_beta.ko

@@ -1,0 +1,2 @@
+kernel/drivers/devkit/audiokit/smartpakit/smartpakit.ko
+kernel/drivers/devkit/audiokit/smartpakit/smartpakit_i2c.ko

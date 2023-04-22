@@ -1,0 +1,3 @@
+kernel/drivers/huawei_platform/audio/usb_analog_hs_module/usb_analog_hs_interface.ko
+kernel/drivers/huawei_platform/audio/usb_analog_hs_module/usb_analog_hs_fsa4476/usb_analog_hs_fsa4476.ko
+kernel/drivers/huawei_platform/audio/usb_analog_hs_module/usb_analog_hs_isl54405/usb_analog_hs_isl54405.ko

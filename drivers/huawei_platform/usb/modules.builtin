@@ -1,0 +1,3 @@
+kernel/drivers/huawei_platform/usb/cc_anti_corrosion/hw_cc_anti_corrosion.ko
+kernel/drivers/huawei_platform/usb/switch/switch_ap/switch_usb_class.ko
+kernel/drivers/huawei_platform/usb/switch/switch_ap/switch_fsa9685.ko

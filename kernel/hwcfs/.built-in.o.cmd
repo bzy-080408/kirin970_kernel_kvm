@@ -1,0 +1,1 @@
+cmd_kernel/hwcfs/built-in.o :=  /home/WUYING_bzy_1150109475084725/toolchains/aarch64-linux-android-4.9/prebuilt/linux-x86_64/bin/aarch64-linux-android-ld -EL    -r -o kernel/hwcfs/built-in.o kernel/hwcfs/hwcfs_common.o kernel/hwcfs/hwcfs_rwsem.o kernel/hwcfs/hwcfs_mutex.o 

@@ -1,0 +1,5 @@
+kernel/drivers/devkit/tpkit/hostprocessing/thp.ko
+kernel/drivers/devkit/tpkit/hostprocessing/novatek_thp.ko
+kernel/drivers/devkit/tpkit/hostprocessing/synaptics_thp.ko
+kernel/drivers/devkit/tpkit/hostprocessing/bu21150_thp.ko
+kernel/drivers/devkit/tpkit/hostprocessing/himax_thp.ko

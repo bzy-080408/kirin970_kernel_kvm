@@ -1,0 +1,5 @@
+kernel/drivers/huawei_platform/audio/anc_hs_module/anc_hs_interface.ko
+kernel/drivers/huawei_platform/audio/anc_hs_module/anc_hs/anc_hs.ko
+kernel/drivers/huawei_platform/audio/anc_hs_module/anc_hs_default/anc_hs_default.ko
+kernel/drivers/huawei_platform/audio/anc_hs_module/anc_max14744/anc_max14744.ko
+kernel/drivers/huawei_platform/audio/anc_hs_module/anc_ncx8293/anc_ncx8293.ko

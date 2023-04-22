@@ -1,0 +1,2 @@
+kernel/drivers/hisi/modem/drv/adp/adp_usb.ko
+kernel/drivers/hisi/modem/drv/adp/adp_rfile.ko

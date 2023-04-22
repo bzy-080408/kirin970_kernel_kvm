@@ -1,0 +1,4 @@
+kernel/drivers/huawei_platform/net/hw_netfilter/nf_ad_filter.ko
+kernel/drivers/huawei_platform/net/hw_netfilter/nf_app_dl_monitor.ko
+kernel/drivers/huawei_platform/net/hw_netfilter/nf_hw_common.ko
+kernel/drivers/huawei_platform/net/hw_netfilter/nf_hw_hook.ko

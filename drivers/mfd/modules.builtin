@@ -1,0 +1,6 @@
+kernel/drivers/mfd/mfd-core.ko
+kernel/drivers/mfd/hisi_pmic_spmi.ko
+kernel/drivers/mfd/hisi_6423_pmic_spmi.ko
+kernel/drivers/mfd/hisi_pmic_mntn_spmi.ko
+kernel/drivers/mfd/hisi_ip_core.ko
+kernel/drivers/mfd/hisi_freq_autodown.ko

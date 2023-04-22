@@ -1,0 +1,4 @@
+kernel/drivers/hisi/ics/cambricon_ipu.ko
+kernel/drivers/hisi/ics/ipu_smmu_drv.ko
+kernel/drivers/hisi/ics/ipu_clock.ko
+kernel/drivers/hisi/ics/ipu_mntn.ko

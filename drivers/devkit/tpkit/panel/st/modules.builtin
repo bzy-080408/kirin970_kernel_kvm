@@ -1,0 +1,13 @@
+kernel/drivers/devkit/tpkit/panel/st/fts.ko
+kernel/drivers/devkit/tpkit/panel/st/fts_driver_test.ko
+kernel/drivers/devkit/tpkit/panel/st/fts_gui.ko
+kernel/drivers/devkit/tpkit/panel/st/fts_lib/ftsCompensation.ko
+kernel/drivers/devkit/tpkit/panel/st/fts_lib/ftsCrossCompile.ko
+kernel/drivers/devkit/tpkit/panel/st/fts_lib/ftsError.ko
+kernel/drivers/devkit/tpkit/panel/st/fts_lib/ftsFrame.ko
+kernel/drivers/devkit/tpkit/panel/st/fts_lib/ftsIO.ko
+kernel/drivers/devkit/tpkit/panel/st/fts_lib/ftsTest.ko
+kernel/drivers/devkit/tpkit/panel/st/fts_lib/ftsTime.ko
+kernel/drivers/devkit/tpkit/panel/st/fts_lib/ftsTool.ko
+kernel/drivers/devkit/tpkit/panel/st/fts_lib/ftsFlash.ko
+kernel/drivers/devkit/tpkit/panel/st/fts_lib/ftsGesture.ko

@@ -1,0 +1,14 @@
+kernel/security/hw_root_scan/hw_rscan_utils.ko
+kernel/security/hw_root_scan/hw_rscan_proc.ko
+kernel/security/hw_root_scan/kcode.ko
+kernel/security/hw_root_scan/rproc.ko
+kernel/security/hw_root_scan/sescan.ko
+kernel/security/hw_root_scan/setids.ko
+kernel/security/hw_root_scan/hw_rscan_scanner.ko
+kernel/security/hw_root_scan/hw_rscan_module.ko
+kernel/security/kernel_stp/hw_kernel_stp_module.ko
+kernel/security/kernel_stp/hw_kernel_stp_proc.ko
+kernel/security/kernel_stp/hw_kernel_stp_scanner.ko
+kernel/security/kernel_stp/hw_kernel_stp_uploader.ko
+kernel/security/keys/encrypted-keys/encrypted-keys.ko
+kernel/security/mdpp_selftest/tcrypt_mdpp_selftest.ko

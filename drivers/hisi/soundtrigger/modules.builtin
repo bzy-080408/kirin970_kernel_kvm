@@ -1,0 +1,6 @@
+kernel/drivers/hisi/soundtrigger/mlib_ringbuffer.ko
+kernel/drivers/hisi/soundtrigger/mlib_static_ringbuffer.ko
+kernel/drivers/hisi/soundtrigger/soundtrigger_dma_drv.ko
+kernel/drivers/hisi/soundtrigger/soundtrigger_event.ko
+kernel/drivers/hisi/soundtrigger/soundtrigger_socdsp_mailbox.ko
+kernel/drivers/hisi/soundtrigger/soundtrigger_socdsp_pcm.ko

@@ -1,0 +1,4 @@
+kernel/drivers/huawei_platform/power/hw_kstate/hw_kstate.ko
+kernel/drivers/huawei_platform/power/hw_kstate/hw_kcollect.ko
+kernel/drivers/huawei_platform/power/hw_kstate/hw_procnetstat.ko
+kernel/drivers/huawei_platform/power/hw_kstate/hw_kpg.ko

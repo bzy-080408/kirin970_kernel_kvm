@@ -1,0 +1,15 @@
+kernel/drivers/hisi/modem/drv/nvim/nv_emmc.ko
+kernel/drivers/hisi/modem/drv/nvim/nv_ctrl.ko
+kernel/drivers/hisi/modem/drv/nvim/nv_comm.ko
+kernel/drivers/hisi/modem/drv/nvim/nv_base.ko
+kernel/drivers/hisi/modem/drv/nvim/nv_cust.ko
+kernel/drivers/hisi/modem/drv/nvim/nv_xml_dec.ko
+kernel/drivers/hisi/modem/drv/nvim/nv_debug.ko
+kernel/drivers/hisi/modem/drv/nvim/nv_crc.ko
+kernel/drivers/hisi/modem/drv/nvim/nv_index.ko
+kernel/drivers/hisi/modem/drv/nvim/nv_partition_upgrade.ko
+kernel/drivers/hisi/modem/drv/nvim/nv_partition_img.ko
+kernel/drivers/hisi/modem/drv/nvim/nv_partition_bakup.ko
+kernel/drivers/hisi/modem/drv/nvim/nv_factory_check.ko
+kernel/drivers/hisi/modem/drv/nvim/nv_msg.ko
+kernel/drivers/hisi/modem/drv/nvim/nv_proc.ko

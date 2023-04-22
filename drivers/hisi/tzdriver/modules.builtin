@@ -1,0 +1,15 @@
+kernel/drivers/hisi/tzdriver/smc_smp.ko
+kernel/drivers/hisi/tzdriver/tc_client_driver.ko
+kernel/drivers/hisi/tzdriver/teek_client_api.ko
+kernel/drivers/hisi/tzdriver/mailbox_mempool.ko
+kernel/drivers/hisi/tzdriver/security_auth_enhance.ko
+kernel/drivers/hisi/tzdriver/agent.ko
+kernel/drivers/hisi/tzdriver/gp_ops.ko
+kernel/drivers/hisi/tzdriver/mem.ko
+kernel/drivers/hisi/tzdriver/cmdmonitor.ko
+kernel/drivers/hisi/tzdriver/tzdebug.ko
+kernel/drivers/hisi/tzdriver/tz_spi_notify.ko
+kernel/drivers/hisi/tzdriver/dynamic_mem.ko
+kernel/drivers/hisi/tzdriver/tlogger.ko
+kernel/drivers/hisi/tzdriver/tee_rdr_register.ko
+kernel/drivers/hisi/tzdriver/tui.ko

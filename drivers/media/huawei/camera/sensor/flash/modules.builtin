@@ -1,0 +1,3 @@
+kernel/drivers/media/huawei/camera/sensor/flash/lm3642.ko
+kernel/drivers/media/huawei/camera/sensor/flash/mp3331.ko
+kernel/drivers/media/huawei/camera/sensor/flash/aw3642.ko

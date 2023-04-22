@@ -1,0 +1,3 @@
+kernel/drivers/hwspinlock/hwspinlock_core.ko
+kernel/drivers/hwspinlock/hisi_hwspinlock.ko
+kernel/drivers/hwspinlock/hisi_hwspinlock_debugfs.ko

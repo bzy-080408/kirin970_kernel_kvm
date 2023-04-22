@@ -1,0 +1,16 @@
+# 1 "arch/arm64/boot/dts/auto-generate/config/kirin970/kirin970_udp_cs_EVB3_PILOT_config.dts"
+# 1 "<built-in>"
+# 1 "<command-line>"
+# 1 "arch/arm64/boot/dts/auto-generate/config/kirin970/kirin970_udp_cs_EVB3_PILOT_config.dts"
+# 10 "arch/arm64/boot/dts/auto-generate/config/kirin970/kirin970_udp_cs_EVB3_PILOT_config.dts"
+/dts-v1/;
+/include/ "fastboot.dtsi"
+/include/ "kirin970_udp_cs_config.dtsi"
+/include/ "kirin970_udp_cs_EVB3_PILOT_pin.dtsi"
+/include/ "kirin970_udp_cs_EVB3_PILOT_modem_pin.dtsi"
+
+/ {
+ hisi,boardid = <6 0 1 6>;
+ hisi,boardname = "kirin970_udp_cs_EVB3_PILOT";
+ hisi,product_id = <0x39F5FC16>;
+};

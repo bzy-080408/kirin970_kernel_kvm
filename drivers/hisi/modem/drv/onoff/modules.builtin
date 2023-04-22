@@ -1,0 +1,4 @@
+kernel/drivers/hisi/modem/drv/onoff/power_exchange.ko
+kernel/drivers/hisi/modem/drv/onoff/power_on.ko
+kernel/drivers/hisi/modem/drv/onoff/power_off.ko
+kernel/drivers/hisi/modem/drv/onoff/bsp_modem_boot.ko

@@ -1,0 +1,6 @@
+kernel/drivers/pci/pci-stub.ko
+kernel/drivers/pci/host/pcie-kirin.ko
+kernel/drivers/pci/host/pcie-kirin-common.ko
+kernel/drivers/pci/host/pcie-mntn.ko
+kernel/drivers/pci/host/pcie-Feb.ko
+kernel/drivers/pci/pcie/aer/aer_inject.ko

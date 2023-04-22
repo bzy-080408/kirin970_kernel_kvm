@@ -1,0 +1,7 @@
+kernel/drivers/usb/dwc3/dwc3.ko
+kernel/drivers/usb/dwc3/dwc3-feb.ko
+kernel/drivers/usb/dwc3/hisi_usb3_bc.ko
+kernel/drivers/usb/dwc3/hisi_usb3_misctrl.ko
+kernel/drivers/usb/dwc3/hisi_usb3_31phy.ko
+kernel/drivers/usb/dwc3/dwc3-hisi.ko
+kernel/drivers/usb/dwc3/usb-vbus.ko

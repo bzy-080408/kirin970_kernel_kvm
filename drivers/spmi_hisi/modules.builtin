@@ -1,0 +1,3 @@
+kernel/drivers/spmi_hisi/hisi-spmi-core.ko
+kernel/drivers/spmi_hisi/hisi-spmi-controller.ko
+kernel/drivers/spmi_hisi/of_hisi_spmi.ko

@@ -1,0 +1,2 @@
+kernel/drivers/staging/android/rcc.ko
+kernel/drivers/staging/android/ion/hisi/of_hisi_ion.ko

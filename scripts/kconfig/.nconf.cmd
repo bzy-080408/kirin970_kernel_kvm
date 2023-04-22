@@ -1,0 +1,1 @@
+cmd_scripts/kconfig/nconf := gcc  -o scripts/kconfig/nconf scripts/kconfig/nconf.o scripts/kconfig/zconf.tab.o scripts/kconfig/nconf.gui.o  -Wl,-Bsymbolic-functions -lmenuw -Wl,-Bsymbolic-functions -lpanelw -Wl,-Bsymbolic-functions -lncursesw -ltinfo

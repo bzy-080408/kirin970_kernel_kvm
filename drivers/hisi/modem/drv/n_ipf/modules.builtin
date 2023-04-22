@@ -1,0 +1,6 @@
+kernel/drivers/hisi/modem/drv/n_ipf/ipf_balong.ko
+kernel/drivers/hisi/modem/drv/n_ipf/ipf_pm.ko
+kernel/drivers/hisi/modem/drv/n_ipf/ipf_filter.ko
+kernel/drivers/hisi/modem/drv/n_ipf/ipf_desc.ko
+kernel/drivers/hisi/modem/drv/n_ipf/ipf_desc64.ko
+kernel/drivers/hisi/modem/drv/n_ipf/ipf_debug.ko

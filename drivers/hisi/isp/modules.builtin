@@ -1,0 +1,8 @@
+kernel/drivers/hisi/isp/rpmsg.ko
+kernel/drivers/hisi/isp/nonsec.ko
+kernel/drivers/hisi/isp/sec.ko
+kernel/drivers/hisi/isp/cma.ko
+kernel/drivers/hisi/isp/smc.ko
+kernel/drivers/hisi/isp/qos.ko
+kernel/drivers/hisi/isp/sensor.ko
+kernel/drivers/hisi/isp/isp.ko

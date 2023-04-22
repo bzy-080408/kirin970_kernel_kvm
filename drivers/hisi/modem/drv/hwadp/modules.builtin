@@ -1,0 +1,3 @@
+kernel/drivers/hisi/modem/drv/hwadp/hwadp_balong.ko
+kernel/drivers/hisi/modem/drv/hwadp/hwadp_core.ko
+kernel/drivers/hisi/modem/drv/hwadp/hwadp_debug.ko

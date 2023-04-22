@@ -1,0 +1,4 @@
+kernel/drivers/hisi/modem/drv/n_psam/psam_balong.ko
+kernel/drivers/hisi/modem/drv/n_psam/psam_hal32.ko
+kernel/drivers/hisi/modem/drv/n_psam/psam_hal64.ko
+kernel/drivers/hisi/modem/drv/n_psam/psam_debug.ko
