@@ -2,7 +2,7 @@
 #!/bin/bash
 
 export PATH=$PATH:$PWD/gcc/bin
-export CROSS_COMPILE=tools/toolchain/bin/aarch64-linux-android-
+export CROSS_COMPILE=/root/toolchain/bin/aarch64-linux-android-
 export GCC_COLORS=AUTO
 export clang=false
 
